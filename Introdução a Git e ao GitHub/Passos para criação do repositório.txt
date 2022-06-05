@@ -1,0 +1,23 @@
+Passo Executados.
+
+Primeiro Repositório no GitHub
+
+ 1 - Realizado criação do repositório no portal do GitHub
+
+ 2 - Executado Clone do repositório Online para repositório local utilizando Git Bash do Git
+
+      Utilizado comando git clone e link do repositório.
+
+ 3 - Realizado alteração do repositório local, incluindo uma pasta e arquivo de texto.
+
+ 4 - Executado comando git status para verificar status das alterações.
+
+ 5 - Executado comando git add . para adicionar alteração ao repositório local.
+
+ 6 -  Executado comando git commit -m  "Testo do Commit"   para commit no repositorio local.
+
+ 6 - Executado por fim git push origin main para empurrar alteraçoes do repositorio local para repositorio online 
+
+      do GitHub.
+
+ 7 - Validado atualização do commit no repositorio do GitHub. 
